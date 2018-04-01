@@ -9,4 +9,4 @@ asyncio_redis
 uvloop
 pymongo
 pylibinjection
-jinja2
+jinja2==2.10
