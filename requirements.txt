@@ -8,5 +8,5 @@ redis
 asyncio_redis
 uvloop
 pymongo
-pylibinjection
+pylibinjection==0.2.4
 jinja2
