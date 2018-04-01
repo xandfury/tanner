@@ -1,5 +1,5 @@
 aiohttp
-aiomysql
+aiomysql==0.0.12
 aiohttp_jinja2
 docker<2.6
 elizabeth==0.3.27
