@@ -7,6 +7,6 @@ yarl<0.14
 redis
 asyncio_redis
 uvloop
-pymongo
+pymongo==3.6.1
 pylibinjection
 jinja2
