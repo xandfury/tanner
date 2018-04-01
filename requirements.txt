@@ -1,4 +1,4 @@
-aiohttp==2.2
+aiohttp
 aiomysql
 aiohttp_jinja2
 docker<2.6
