@@ -6,7 +6,7 @@ elizabeth==0.3.27
 yarl<0.14
 redis
 asyncio_redis
-uvloop
+uvloop==0.9.1
 pymongo
 pylibinjection
 jinja2
