@@ -4,7 +4,7 @@ aiohttp_jinja2
 docker<2.6
 elizabeth==0.3.27
 yarl<0.14
-redis
+redis==2.10.6
 asyncio_redis
 uvloop
 pymongo
